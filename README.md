@@ -1,4 +1,4 @@
-👋 Hi, I’m @dhruvthakkar0315<br>
+👋 Hi, I’m Dhruv<br>
 📫 How to reach me: thakkardhruv2004@gmail.com
 
 <!---
