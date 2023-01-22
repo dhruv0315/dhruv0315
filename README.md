@@ -9,9 +9,7 @@ I'm an aspiring software engineer. I have experience with technologies and frame
 * 🌍  I'm based in Toronto, Canada
 * 🖥️  See my portfolio at [My Website](http://www.dhruvthakkar.ca)
 * ✉️  You can contact me at [thakkardhruv2004@gmail.com](mailto:thakkardhruv2004@gmail.com)
-* 🚀  I'm currently working on [Finwealth](http://apps.apple.com/ca/app/finwealth/id1602301110)
-* 🧠  I'm learning Flutter (Mobile Application Framework)
-* 🤝  I'm open to collaborating on projects that will help expand my tech stack
+* 🧠  I'm learning AWS (Cloud Services)
 
 ### Skills
 
