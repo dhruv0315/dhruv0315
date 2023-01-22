@@ -4,7 +4,7 @@ Hi 👋 My name is Dhruv
 Aspiring Software Engineer
 --------------------------
 
-I'm an aspiring Full Stack Developer and Mobile App Developer. I have experience with technologies and frameworks such as JavaScript, Reactjs, Nodejs, Python, React Native, HTML, CSS, and Expressjs.
+I'm an aspiring software engineer. I have experience with technologies and frameworks such as JavaScript, Reactjs, Nodejs, Python, React Native, HTML, CSS, and Expressjs.
 
 * 🌍  I'm based in Toronto, Canada
 * 🖥️  See my portfolio at [My Website](http://www.dhruvthakkar.ca)
